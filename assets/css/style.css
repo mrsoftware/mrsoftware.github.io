@@ -1310,3 +1310,13 @@ body {
 	background-color: #f48024;
 	color: #fff;
 }
+
+.buttons a.twitch {
+	background-color: #6441a5;
+	color: #fff;
+}
+
+.buttons a.youtube {
+	background-color: #c4302b;
+	color: #fff;
+}
